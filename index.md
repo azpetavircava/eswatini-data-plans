@@ -72,3 +72,10 @@ layout: default
 
 　　希望这份指南能帮你扫清障碍，让在斯威士兰的每一刻连线都顺畅无阻。
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Eswatini SIM 卡购买与激活指南](https://faciylike.github.io/eswatini-sim-guides)
